@@ -1,6 +1,23 @@
+
+# Python 虛擬環境
 .venv/
+venv/
+
+# API 金鑰
 .env
-.DS_Store
+.env.*
+
+# 快取
 __pycache__/
+*.pyc
+
+# 資料庫
 *.db
+
+# VS Code
+.vscode/
+
+# 其他系統檔案
+.DS_Store
+
 #這些檔案不會上傳github
